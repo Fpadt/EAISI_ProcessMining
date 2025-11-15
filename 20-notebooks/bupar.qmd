@@ -1,0 +1,59 @@
+---
+title: "Process Mining"
+author: "F.J.Padt"
+format: html
+---
+
+## Process Mining with bupaR
+
+bupaR is an open-source, integrated suite of R-packages for the handling and analysis of business process data. bupaR provides support for different stages in process analysis, such as importing and preprocessing event data, calculating descriptive statistics, process vizualisation and conformance checking, see [bupaR](https://bupar.net/)
+ 
+## Install
+
+[Installing bupaR](https://bupaverse.github.io/docs/install.html)
+
+```{r}
+#| label: install-bupar
+#| echo: true
+#| eval: false
+
+install.packages("bupaverse")
+# install.packages("daqapo")
+# install.packages("heuristicsmineR")
+# install.packages("petrinetR")
+# install.packages("pm4py")
+# install.packages("processanimateR")
+# install.packages("processpredictR")
+# install.packages("psmineR")
+# install.packages("understandBPMN")
+# install.packages("xesreadR")
+
+```
+```{r}
+#| label: load-bupar
+#| echo: true
+#| eval: true
+
+library(bupaverse)
+```
+
+
+
+## Create
+## Manipulate
+## Analyse
+## Visualize
+## Predict
+
+
+```{r}
+
+```
+
+
+```{r}
+#| echo: false
+
+```
+
+
